@@ -1,0 +1,18 @@
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\bin\Debug\net6.0\Indexer Reflection practices.exe
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\bin\Debug\net6.0\Indexer Reflection practices.deps.json
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\bin\Debug\net6.0\Indexer Reflection practices.runtimeconfig.json
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\bin\Debug\net6.0\Indexer Reflection practices.dll
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\bin\Debug\net6.0\Indexer Reflection practices.pdb
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\obj\Debug\net6.0\Indexer Reflection practices.csproj.AssemblyReference.cache
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\obj\Debug\net6.0\Indexer Reflection practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\obj\Debug\net6.0\Indexer Reflection practices.AssemblyInfoInputs.cache
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\obj\Debug\net6.0\Indexer Reflection practices.AssemblyInfo.cs
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\obj\Debug\net6.0\Indexer Reflection practices.csproj.CoreCompileInputs.cache
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\obj\Debug\net6.0\Indexer Reflection practices.dll
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\obj\Debug\net6.0\refint\Indexer Reflection practices.dll
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\obj\Debug\net6.0\Indexer Reflection practices.pdb
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\obj\Debug\net6.0\Indexer Reflection practices.genruntimeconfig.cache
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\obj\Debug\net6.0\ref\Indexer Reflection practices.dll
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\User-BT\Desktop\Indexer Reflection\Indexer Reflection practices\Indexer Reflection practices\obj\Debug\net6.0\Indexer Reflection practices.csproj.CopyComplete

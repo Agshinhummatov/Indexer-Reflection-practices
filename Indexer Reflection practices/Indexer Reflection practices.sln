@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer Reflection practices", "Indexer Reflection practices\Indexer Reflection practices.csproj", "{D301F517-1F2A-4C08-B8DB-7EA5029911C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{11D6D875-3066-4DEE-93AB-6DF7CF932F33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D301F517-1F2A-4C08-B8DB-7EA5029911C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D301F517-1F2A-4C08-B8DB-7EA5029911C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D301F517-1F2A-4C08-B8DB-7EA5029911C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D301F517-1F2A-4C08-B8DB-7EA5029911C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D6D875-3066-4DEE-93AB-6DF7CF932F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D6D875-3066-4DEE-93AB-6DF7CF932F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D6D875-3066-4DEE-93AB-6DF7CF932F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D6D875-3066-4DEE-93AB-6DF7CF932F33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A20611F-A38C-445F-9DAD-9D6FBF33852C}
+	EndGlobalSection
+EndGlobal
